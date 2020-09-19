@@ -1,0 +1,7 @@
+{
+  "name": "bodyMassIndexApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
